@@ -33,10 +33,10 @@ The project objectives are:
 
 ## Data Sources 
 
-| Data | Source 
-| AllWells_20210427.csv | Deshmukh et al., 2023 |
-| county_oil_employment_projections.csv | Deshmukh et al., 2023 |
-
+| Data                                                                                         | Source 
+| -------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **All oil wells in California**: AllWells_20210427.csv | Deshmukh et al., 2023 |
+| **Fossil fuel employment projections**: county_oil_employment_projections.csv | Deshmukh et al., 2023  |
 
 ## Authors and Contributors 
 
