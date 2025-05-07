@@ -9,11 +9,9 @@
       <h1>
         Modeling the Impact of Decarbonization on Labor in California's Central Coast
       </h1>
-    </td>
   </tr>
 </table>
 
-Modeling the Impact of Decarbonization on Labor in California's Central Coast
 
 ## Table of Contents 
 [Overview](#overview)
