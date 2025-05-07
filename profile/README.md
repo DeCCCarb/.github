@@ -62,9 +62,7 @@ The project objectives are:
  
 #### Client 
 
-The [2035 Initiative](https://www.2035initiative.com/) at UCSB
-
-The [Community Labor Center](https://laborcenter.ucsb.edu/)
+Our clients for this project are The [2035 Initiative](https://www.2035initiative.com/) at UCSB and The [Community Labor Center (https://laborcenter.ucsb.edu/). 
 
 #### Advisor 
 
