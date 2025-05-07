@@ -1,8 +1,17 @@
-<h2 align="center">
- 
-<img src="https://github.com/DeCCCarb/.github/blob/main/profile/DeCCCarb_Hex.png" alt="DeCCCarb Capstone group logo: hex sticker with solar panel, floating offshore wind, smoke stack, and hard hat with wrench" width="600">
-
-<h1 align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/DeCCCarb/.github/blob/main/profile/DeCCCarb_Hex.png" 
+           alt="DeCCCarb Capstone group logo: hex sticker with solar panel, floating offshore wind, smoke stack, and hard hat with wrench" 
+           width="200">
+    </td>
+    <td>
+      <h1>
+        Modeling the Impact of Decarbonization on Labor in California's Central Coast
+      </h1>
+    </td>
+  </tr>
+</table>
 
 Modeling the Impact of Decarbonization on Labor in California's Central Coast
 
