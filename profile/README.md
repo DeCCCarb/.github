@@ -1,3 +1,6 @@
+<img src="https://github.com/coastalconservation/.github/blob/main/photos/cc-hexlogo-lowquality.png?raw=true" alt="DeCCCarb Capstone group logo: hex sticker with solar panel, floating offshore wind, smoke stack, and hard hat with wrench" width="300">
+
+
 # Modeling the Impact of Decarbonization on Labor in California's Central Coast
 
 ## Table of Contents 
