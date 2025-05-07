@@ -3,7 +3,7 @@
     <td>
       <img src="https://github.com/DeCCCarb/.github/blob/main/profile/DeCCCarb_Hex.png" 
            alt="DeCCCarb Capstone group logo: hex sticker with solar panel, floating offshore wind, smoke stack, and hard hat with wrench" 
-           width="400">
+           width="600">
     </td>
     <td>
       <h1>
