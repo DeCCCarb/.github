@@ -40,8 +40,8 @@ In December 2022, Equinor, Golden State Wind, and Even Keel Energy (Invenergy) w
 
 The project objectives are:
 
-1. Identify job impacts of reaching defined state goals for floating offshore wind, utility and rooftop solar, onshore wind, and onshore oil well phase out in San Luis Obispo, Santa Barbara, and Ventura counties. 
-2. Create a tool that will project job impacts under any given capacity goals, allowing for flexibility under an uncertain energy climate
+1. Quantify the number of jobs created from reaching defined state goals for floating offshore wind, utility and rooftop solar, onshore wind, and onshore oil well phase out in San Luis Obispo, Santa Barbara, and Ventura counties. 
+2. Create a tool that will project number of jobs created under any given capacity deployment goals, allowing for flexibility under an uncertain energy climate.
 3. Fill in knowledge gaps for community organizers and clean energy advocates about how to ensure a just transition for fossil fuel workers. 
 
 
