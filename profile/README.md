@@ -30,7 +30,7 @@
 
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara
 
-More information relating to this project can be found on our [Bren project page]()
+More information relating to this project can be found on our [Bren project page](https://bren.ucsb.edu/projects/modeling-impact-decarbonization-labor-californias-central-coast)
 
 ## Project Summary
 
