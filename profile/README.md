@@ -72,7 +72,7 @@ Our clients for this project are The [2035 Initiative](https://www.2035initiativ
 
 Dr. Ranjit Deshmukh | Associate Professor | [ES page](https://es.ucsb.edu/people/ranjit-deshmukh)
 
-#### License
+## License
 Copyright (c) [2025] [Marina Kochuten](https://github.com/marinakochuten)
 
 Copyright (c) [2025] [Elizabeth Peterson](https://github.com/egp4aq)
